@@ -18,7 +18,7 @@ box-sizing: border-box;
     margin-left: 15px ;
     color: rgb(129, 95, 23);
     font-family: 'Ysaeau', sans-serif;
-    text-size-adjust:200px;
+    text-size-adjust:500px;
 }
 .nav-link.hover{
     color: rgb(129, 95, 23);
@@ -31,6 +31,8 @@ box-sizing: border-box;
     margin-right:-35px;
     border: 2px solid rgb(129, 95, 23);
 }
+
+
 .btn1{
     height: 40px;
     width: 40%;

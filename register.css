@@ -3,7 +3,6 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: rgb(216, 229, 229);
     background-image: url(/IMAGES/s7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -18,32 +17,7 @@ body{
     border-radius: 8px;
     overflow: hidden;
 }
-.box::before{
-    content: '';
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 380px;
-    height: 420px;
-    background: linear-gradient(0deg, transparent,transparent,rgb(236, 194, 194),gray, blueviolet);
-    z-index: 1;
-    transform-origin: bottom right;
-    animation: animate 6s linear infinite;
 
-}
-.box::after{
-    content: '';
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 380px;
-    height: 420px;
-    background: linear-gradient(0deg, transparent,transparent,rgb(165, 124, 42),rgb(165, 162, 158), rgb(17, 123, 118));
-    z-index: 1;
-    transform-origin: bottom right;
-    animation: animate 6s linear infinite;
-    animation-delay: -3s;
-}
 
 .borderline
 {

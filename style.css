@@ -141,3 +141,36 @@ align-items: flex-end;
     font-family: 'poppins', sans-serif;
 
 }
+.bg-img-7{
+    background-image: url(./IMAGES/x1.jpg);
+}
+.bg-img-8{
+    background-image: url(./IMAGES/x.webp);
+}
+
+.bg-img-9{
+    background-image: url(./IMAGES/x2.jpg);
+}
+.carousel-image{
+ height:100vh;   
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+*
+{
+    margin:0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+*
+{
+    margin:0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+
+}

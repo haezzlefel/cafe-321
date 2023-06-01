@@ -19,6 +19,7 @@ box-sizing: border-box;
     color: rgb(129, 95, 23);
     font-family: 'Ysaeau', sans-serif;
     text-size-adjust:500px;
+    -ms-flex-order: initial;
 }
 .nav-link.hover{
     color: rgb(129, 95, 23);

@@ -112,28 +112,6 @@ align-items: flex-end;
     background-image: url(./IMAGES/s3.jpg);
 }
 
-.bg-img-21{
-    background-image: url(./IMAGES/beans.jpeg);
-}
-
-.bg-img-22{
-    background-image: url(./IMAGES/cbeans.jpg);
-}
-
-.bg-img-23{
-    background-image: url(./IMAGES/orange\ wa.jpeg);
-}
-.bg-img-24{
-    background-image: url(./IMAGES/belgian.jpeg);
-}
-
-.bg-img-25{
-    background-image: url(./IMAGES/seafood\ marina.jpg);
-}
-
-.bg-img-26{
-    background-image: url(./IMAGES/shrimp\ aglio.jpg);
-}
 .carousel-image{
  height:100vh;   
  background-repeat: no-repeat;

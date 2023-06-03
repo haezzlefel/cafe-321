@@ -16,7 +16,7 @@
     font-family: 'Luckiest Guy', cursive;
 }
 .inp{
-    height: 30px;
+    height: 40px;
     width: 70%;
     border:none;
     outline: none;
@@ -26,7 +26,7 @@
 -moz-box-shadow: -35px -20px 82px 1px rgba(69,173,173,0.56);
 }
 .btn1{
-    height: 30px;
+    height: 40px;
     width: 50%;
     border: none;
     outline: none;
@@ -38,4 +38,13 @@
 .btn1 :hover{
     background: pink;
     transition: 0.5s;
+}
+.fa-facebook{
+    font-size: 2.5 rem;
+    color: darkblue;
+}
+.fa-google-plus{
+    font-size: 2.5 rem;
+    color: darkblue;
+    cursor: pointer;
 }

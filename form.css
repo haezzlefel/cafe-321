@@ -4,7 +4,7 @@
     box-sizing:border-box;
 }
 .row{
-    background: whitesmoke;
+    background: rgb(239, 234, 221);
     border-radius: 30px;
     box-shadow: wheat;
     box-shadow: 12px 12px 22px;
@@ -26,9 +26,9 @@
     border:none;
     outline: none;
     border-radius: 20px;
-    box-shadow: -35px -20px 82px 1px rgba(69,173,173,0.56);
--webkit-box-shadow: -35px -20px 82px 1px rgba(69,173,173,0.56);
--moz-box-shadow: -35px -20px 82px 1px rgba(69,173,173,0.56);
+    box-shadow: -46px -44px 85px 32px rgba(199,180,166,0.75);
+    -webkit-box-shadow: -46px -44px 85px 32px rgba(199,180,166,0.75);
+    -moz-box-shadow: -46px -44px 85px 32px rgba(199,180,166,0.75);
 }
 .btn1{
     height: 40px;

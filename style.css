@@ -191,6 +191,5 @@ align-items: flex-end;
 .carousel-image{
  height:100vh;   
  background-repeat: no-repeat;
- background-size: cover;
  background-position: center;
 }

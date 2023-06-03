@@ -1,7 +1,7 @@
 *{
     padding:0;
     margin: 0;
-    box-sizing:border-box ;
+    box-sizing:border-box;
 }
 .row{
     background: whitesmoke;
@@ -10,10 +10,15 @@
     box-shadow: 12px 12px 22px;
 
 }
+
+.login img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
 .login h1{
     font-size: 2rem;
     font-weight: 500;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Luckiest Guy' cursive;
 }
 .inp{
     height: 40px;
@@ -42,8 +47,20 @@
 .fa-facebook{
     font-size: 2.5 rem;
     color: darkblue;
+    cursor: pointer;
 }
-.fa-google-plus{
+.fa-goggle{
+    font-size: 2.5 rem;
+    color: darkblue;
+    cursor: pointer;
+}
+
+.fa-twitter{
+    font-size: 2.5 rem;
+    color: darkblue;
+    cursor: pointer;
+}
+.fa-instagram{
     font-size: 2.5 rem;
     color: darkblue;
     cursor: pointer;

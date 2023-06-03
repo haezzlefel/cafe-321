@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing:border-box ;
+}
+.row{
+    background: whitesmoke;
+    border-radius: 30px;
+    box-shadow: wheat;
+    box-shadow: 12px 12px 22px;
+
+}
+.login h1{
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'Luckiest Guy', cursive;
+}
+.inp{
+    height: 30px;
+    width: 70%;
+    border:none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: -35px -20px 82px 1px rgba(69,173,173,0.56);
+-webkit-box-shadow: -35px -20px 82px 1px rgba(69,173,173,0.56);
+-moz-box-shadow: -35px -20px 82px 1px rgba(69,173,173,0.56);
+}
+.btn1{
+    height: 30px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight: 600;
+    background: rgb(138, 114, 66);
+    color: whitesmoke;
+}
+.btn1 :hover{
+    background: pink;
+    transition: 0.5s;
+}

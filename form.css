@@ -71,54 +71,6 @@
     cursor: pointer;
 }
 
-
-.book{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-    font-weight: 400;
-    color: rgb(9, 83, 88);
-    letter-spacing: 1px;
-}
-.container-book{
-    background-color: wheat;
-    margin: 200px;
-    box-shadow: 10px 15px 20px rgb(9, 83, 88);
-    display: grid;
-    grid-template-columns: 40% 60%;
-    border-radius: 20px;
-}
-.container-time{
-    background-color: antiquewhite ;
-    padding: 50px;
-    border-radius: 20px;
-    text-align: center;
-}
-.heading{
-    font-size: 35px;
-    text-transform: uppercase;
-}
-.heading-days{
-    color: rgb(35, 119, 106);
-    font-size: 30px;
-}
-.container-form{
-    padding: 20px 0;
-    margin: 0 auto;
-    color: rgb(82, 54, 17);
-}
-.container-form field {
-    display: grid;
-    grid-row-gap: 20px;
-}
-.form-field{
-    display: flex;
-    justify-content: space-between;
-}
-input,select{
-    padding: 10px 15px;
-}
-.form p{
-    font-weight: 600;
-}
 .btn3{
     background-color: rgb(130, 108, 66);
     color: antiquewhite ;
@@ -135,3 +87,13 @@ input,select{
 .btn3:hover{
     transform: scale(1.013);
 }
+.container-time{
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'Luckiest Guy' cursive;   
+}
+.head-count{
+    padding: 10px 15px;
+    align-items: center;
+}
+

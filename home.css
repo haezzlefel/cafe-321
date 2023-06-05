@@ -1,4 +1,53 @@
 *{
+    padding: 2px; ;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    .navbar-shop{
+        font-size: 3rem;
+        color: rgb(9, 83, 88);
+        font-family: 'Ysabeau', sans-serif;
+        text-decoration: none;
+    
+    }
+    .navbar-shop:hover{
+        color: rgb(129, 95, 23);
+    }
+    .nav-link{
+        margin-right: 15px ;
+        margin-left: 15px ;
+        color: rgb(129, 95, 23);
+        font-family: 'Ysaeau', sans-serif;
+        text-size-adjust:500px;
+        -ms-flex-order: initial;
+    }
+    .nav-link.hover{
+        color: rgb(129, 95, 23);
+    }
+    .search{
+        height: 40px;
+        width: 80%;
+        border-radius: 50px;
+        outline: none;
+        margin-right:-35px;
+        border: 2px solid rgb(129, 95, 23);
+    }
+    .btn1{
+        height: 40px;
+        width: 40%;
+        outline: none;
+        border: none;
+        background: rgb(129, 95, 23);
+        color: bisque;
+        border-radius: 60px;
+        font-weight: 700;
+    }
+    .btn1:hover{
+        background-color:rgb(129, 95, 23);
+        transition: 0.9s;
+    }
+    
+*{
     margin: 0px;
     padding: 0px; 
     box-sizing: bo  rder-box;

@@ -1,6 +1,7 @@
 body{
-    background :url(./IMAGES/a.png) no-repeat;   
-    background-size: cover;
+    background :url(./IMAGES/newto.webp) no-repeat;   
+    background-blend-mode: lighten;
+    background-image: image();
     height: 100vh;
     background-position: 50% 50%;
     width: 100%;
@@ -22,4 +23,9 @@ body{
     border: turquoise;
     border-radius: 10px;
     background-image: url(/IMAGES/s.jpeg);
+}
+*{
+    padding:0;
+    margin: 0;
+    box-sizing:border-box;
 }

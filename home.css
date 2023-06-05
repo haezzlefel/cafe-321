@@ -108,10 +108,44 @@ body{
 .about-content read-more{
     display: inline-block;
     padding: 10px 20px;
+    background-color: #4caf50;
     color: #fff;
     font-size: 19px;
     text-decoration: none;
     border-radius: 25px;
     margin-top: 15px;
     transition: 0.3s ease;
+}
+.about-content .read-more:hover{
+    background-color: #3e8e41;
+
+}
+@media screen and {(max-width: 768px;)
+    .heading{
+        padding: 0px 20px;
+        font-size: 36px;
+    }   
+    .heading h1{
+        font-size: 36px;
+    }
+    .heading p{
+        font-size: 17px;
+        margin-bottom:0px ;
+    }
+    .about{
+        padding: 20px;
+        flex-direction: column;
+    }
+    .about-image{
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .about-content p{
+        padding: 0px;
+        font-size: 16px;
+    }
+    .about-content .read-more{
+        font-size: 16px;
+
+    }
 }

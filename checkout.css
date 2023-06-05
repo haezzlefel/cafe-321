@@ -1,5 +1,5 @@
 body{
-    background :url(./IMAGES/str.webp) no-repeat;   
+    background :url(./IMAGES/5.jpeg) no-repeat;   
     background-size: cover;
     height: 100vh;
     background-position: 50% 50%;
@@ -21,5 +21,5 @@ body{
 .container-col{
     border: turquoise;
     border-radius: 10px;
-    background-image: url(/IMAGES/bg123.jpeg);
+    background-image: url(/IMAGES/s.jpeg);
 }

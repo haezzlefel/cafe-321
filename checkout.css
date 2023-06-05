@@ -1,11 +1,12 @@
 body{
-    background-color: rgb(239, 233, 226);
-  
-   
-    
+    background :url(./IMAGES/str.webp) no-repeat;   
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+    font-family: 'Ysaeau', sans-serif;
 }
 .container{
-    background-color: rgb(243, 236, 217);
     height: 40px;
     width: 70%;
     border:none;
@@ -16,7 +17,9 @@ body{
     -moz-box-shadow: -46px -44px 85px 32px rgba(199,180,166,0.75);
     https://cssgenerator.org/box-shadow-css-generator.html#:~:text=box%2Dshadow%3A%20%2D41px%20%2D23px%20243px%202px%20rgba(30%2C194%2C194%2C0.75)%3B%0A%2Dwebkit%2Dbox%2Dshadow%3A%20%2D41px%20%2D23px%20243px%202px%20rgba(30%2C194%2C194%2C0.75)%3B%0A%2Dmoz%2Dbox%2Dshadow%3A%20%2D41px%20%2D23px%20243px%202px%20rgba(30%2C194%2C194%2C0.75)%3B
     align-items: center;
-        
-
 }
-
+.container-col{
+    border: turquoise;
+    border-radius: 10px;
+    background-image: url(/IMAGES/s.jpeg);
+}

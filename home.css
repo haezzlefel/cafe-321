@@ -4,7 +4,7 @@
     box-sizing: border-box;
     }
     .navbar-shop{
-        font-size: 2rem;
+        font-size: 3rem;
         color: rgb(9, 83, 88);
         font-family: 'Ysabeau', sans-serif;
         text-decoration: none;
@@ -48,7 +48,7 @@
         background-color:rgb(129, 95, 23);
         transition: 0.9s;
     }
-    
+        
     
 *{
     margin: 0px;

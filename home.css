@@ -4,7 +4,7 @@
     box-sizing: border-box;
     }
     .navbar-shop{
-        font-size: 3rem;
+        font-size: 2rem;
         color: rgb(9, 83, 88);
         font-family: 'Ysabeau', sans-serif;
         text-decoration: none;
@@ -32,6 +32,8 @@
         margin-right:-35px;
         border: 2px solid rgb(129, 95, 23);
     }
+    
+    
     .btn1{
         height: 40px;
         width: 40%;
@@ -46,6 +48,7 @@
         background-color:rgb(129, 95, 23);
         transition: 0.9s;
     }
+    
     
 *{
     margin: 0px;
@@ -111,9 +114,9 @@ body{
     font-size: 15px;
 }
 .a{
-    font-size: 20px;
+    font-size: 15px;
     align-items: center;
-    margin-left: 80px;
+    margin-left: 50px;
 }
 .about-image{
     flex: 1;

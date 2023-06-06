@@ -22,7 +22,7 @@ body{
 .container-col{
     border: turquoise;
     border-radius: 10px;
-    background-image: url(/IMAGES/s.jpeg);
+    
 }
 *{
     padding:0;

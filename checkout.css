@@ -5,10 +5,9 @@
     border: 8px;
 }
 body {
-    background :url(./IMAGES/plain.webp) repeat;   
-    background-size: cover;
-    height: 100vh;
-    background-position: 50% 50%;
-    width: 100%;
-    font-family: 'Ysaeau', sans-serif;
+    background-color: beige;
+}
+.row{
+    background-color: aliceblue;
+    border-radius: 10px;
 }

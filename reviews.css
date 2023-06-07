@@ -26,13 +26,14 @@ a{
 .reviews-heading h1{
     font-size: 2.2rem;
     font-weight: 500;
-    background-color: bisque;
-    color: blue;
+    background-color: rgb(241, 234, 225);
+    color: rgb(125, 97, 36);
     padding: 10px 20px;
+    border-radius: 15px;
 }
 .reviews-heading span{
     font-size: 1.3rem;
-    color: brown;
+    color: rgb(125, 97, 36);
     margin-bottom: 10px;
     letter-spacing:2px;
     text-transform: uppercase;
@@ -47,10 +48,11 @@ a{
 .reviews-box{
     width: 500px;
     box-shadow: 2px 2px 30px rgba (0,0,0,0.1);
-    background-color: aqua;
+    background-color: rgb(252, 245, 231);
     padding: 20px;
     margin: 15px;
     cursor: pointer;
+    border-radius: 10px;
 }
 .profile-img{
     width: 50px;
@@ -90,6 +92,35 @@ a{
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
-
-
+}
+.clients-comment p{
+    font-size: 0.9rem;
+    color: rgb(116, 76, 8);
+}
+.reviews-box:hover{
+    transform: translateY(-10px);
+    transition: all ease 0.3s;
+}
+@media (max-width:1060px) {
+    .reviews-box{
+        width: 45%;
+        padding: 10px;
+    }
+}
+@media(max-width:790px){
+    .reviews-box{
+        width: 100%;
+    }
+    .reviews-heading h1{
+        font-size: 1.4rem;
+    }
+}
+@media(max-width: 340px){
+    .box-top{
+        flex-wrap: wrap;
+        margin-bottom: 10px;
+    }
+    .review{
+        margin-top: 10px;
+    }
 }

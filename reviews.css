@@ -24,12 +24,12 @@ a{
     align-items: center;
 }
 .reviews-heading h1{
-    font-size: 2.2rem;
+    font-size: 1.5rem;
     font-weight: 500;
     background-color: rgb(241, 234, 225);
     color: rgb(125, 97, 36);
     padding: 10px 20px;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 .reviews-heading span{
     font-size: 1.3rem;

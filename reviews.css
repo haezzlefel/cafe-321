@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Ysaeau', sans-serif; 
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+#reviews{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+.reviews-heading{
+    letter-spacing: 1px;
+    margin: 30px 0px;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.reviews-heading h1{
+    font-size: 2.2rem;
+    font-weight: 500;
+    background-color: bisque;
+    color: blue;
+    padding: 10px 20px;
+}
+.reviews-heading span{
+    font-size: 1.3rem;
+    color: brown;
+    margin-bottom: 10px;
+    letter-spacing:2px;
+    text-transform: uppercase;
+}

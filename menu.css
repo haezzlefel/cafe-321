@@ -1,0 +1,137 @@
+*{
+    padding: 2px; ;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    .navbar-shop{
+        font-size: 3rem;
+        color: rgb(9, 83, 88);
+        font-family: 'Ysabeau', sans-serif;
+        text-decoration: none;
+    
+    }
+    .navbar-shop:hover{
+        color: rgb(129, 95, 23);
+    }
+    .nav-link{
+        margin-right: 15px ;
+        margin-left: 15px ;
+        color: rgb(129, 95, 23);
+        font-family: 'Ysaeau', sans-serif;
+        text-size-adjust:500px;
+        -ms-flex-order: initial;
+    }
+    .nav-link.hover{
+        color: rgb(129, 95, 23);
+    }
+    .search{
+        height: 40px;
+        width: 80%;
+        border-radius: 50px;
+        outline: none;
+        margin-right:-35px;
+        border: 2px solid rgb(129, 95, 23);
+    }
+    
+    
+    .btn1{
+        height: 40px;
+        width: 40%;
+        outline: none;
+        border: none;
+        background: rgb(129, 95, 23);
+        color: bisque;
+        border-radius: 60px;
+        font-weight: 700;
+    }
+    .btn1:hover{
+        background-color:rgb(129, 95, 23);
+        transition: 0.9s;
+    }
+    .main{
+     background :url(./IMAGES/21.png) no-repeat;   
+     background-size: cover;
+     height: 100vh;
+     background-position: 50% 50%;
+     width: 100%;
+     font-family: 'Ysaeau', sans-serif;
+     
+    
+    }
+    .main h1{
+        font-size: 4rem;
+        font-weight: 700;
+        font-display: color  rgb(129, 95, 23);
+        text-align: center;
+        text-decoration-color:rgb(129, 95, 23);
+    }
+    .btn2{
+        height: 45px;
+        width: 35%;
+        border: none;
+        outline: none;
+        background-color: rgb(129, 95, 23);
+        color: rgb(171, 191, 197);
+        font-weight: 700;
+        border-radius: 60px;
+    }
+    .h1{
+        font-weight: 700;
+    }
+    .card:hover{
+        box-shadow: -28px 8px 63px 8px rgba(0,0,0,0.58);
+    -webkit-box-shadow: -28px 8px 63px 8px rgba(0,0,0,0.58);
+    -moz-box-shadow: -28px 8px 63px 8px rgba(0,0,0,0.58);
+    transition: 0.5s;
+    }
+    .a{
+    align-items: flex-end;
+    }
+    .cafe{
+        background-color: rgb(234, 206, 172);
+        color: rgb(17, 52, 52);
+    }
+    .btn2{
+        height:40px;
+        width: 100px;
+        background: whitesmoke;
+        margin-left: -10px;
+        border: 2px solid white;
+        font-weight: 600;
+    }
+    
+
+    *
+    {
+        margin:0;
+        padding: 0;
+        font-family: 'poppins', sans-serif;
+    
+    }
+    .bg-img-7{
+        background-image: url(./IMAGES/x1.jpg);
+    }
+    .bg-img-8{
+        background-image: url(./IMAGES/x.webp);
+    }
+    
+    .bg-img-9{
+        background-image: url(./IMAGES/x2.jpg);
+    }
+    .carousel-image{
+     height:100vh;   
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+    }
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+    *
+    {
+        margin:0;
+        padding: 0;
+        font-family: 'poppins', sans-serif;
+    
+    }
+    
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+    

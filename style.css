@@ -59,7 +59,7 @@ box-sizing: border-box;
 
 }
 .main h1{
-    font-size: 3.5rem;
+    font-size: 5rem;
     font-weight: 400;
     font-display: color  rgb(224, 217, 204);
     text-align: center;
@@ -90,6 +90,12 @@ transition: 0.5s;
 }
 .koopii h4{
     font-family: 'Lobster', cursive;
+}
+.main h2{
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    font-weight: 200;
+ 
 }
 .a{
 align-items: flex-end;

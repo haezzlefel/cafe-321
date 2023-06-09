@@ -54,16 +54,17 @@ box-sizing: border-box;
  height: 100vh;
  background-position: 50% 50%;
  width: 100%;
- font-family: 'Ysaeau', sans-serif;
+ font-family: 'Lobster', cursive;
  
 
 }
 .main h1{
-    font-size: 4rem;
-    font-weight: 700;
-    font-display: color  rgb(129, 95, 23);
+    font-size: 3.5rem;
+    font-weight: 400;
+    font-display: color  rgb(224, 217, 204);
     text-align: center;
-    text-decoration-color:rgb(129, 95, 23);
+    text-decoration-color:rgb(212, 209, 203);
+    font-family: 'Lobster', cursive;
 }
 .btn2{
     height: 45px;

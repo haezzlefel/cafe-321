@@ -85,6 +85,12 @@ box-sizing: border-box;
 -moz-box-shadow: -28px 8px 63px 8px rgba(0,0,0,0.58);
 transition: 0.5s;
 }
+.koopii h1{
+    font-family: 'Lobster', cursive;
+}
+.koopii h4{
+    font-family: 'Lobster', cursive;
+}
 .a{
 align-items: flex-end;
 }

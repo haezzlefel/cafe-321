@@ -189,20 +189,3 @@ align-items: flex-end;
     font-family: 'poppins', sans-serif;
 
 }
-.bg-img-20{
-    background-image: url(./IMAGES/bg.jpeg);
-}
-
-.bg-img-21{
-    background-image: url(./IMAGES/bg2.webp);
-}
-
-.bg-img-22{
-    background-image: url(./IMAGES/bg3.jpeg);
-}
-
-.carousel-image{
- height:100vh;   
- background-repeat: no-repeat;
- background-position: center;
-}

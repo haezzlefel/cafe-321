@@ -3,6 +3,9 @@ padding: 2px; ;
 margin: 0;
 box-sizing: border-box;
 }
+.navbar{
+    height: 70px;
+}
 .navbar-shop{
     font-size: 3rem;
     color: rgb(9, 83, 88);
@@ -14,15 +17,22 @@ box-sizing: border-box;
     color: rgb(129, 95, 23);
 }
 .nav-link{
-    margin-right: 15px ;
-    margin-left: 15px ;
-    color: rgb(129, 95, 23);
+    margin-right: 5px ;
+    margin-left: 5px ;
+    color: rgb(68, 47, 1);
     font-family: 'Ysaeau', sans-serif;
-    text-size-adjust:500px;
+    text-size-adjust:800px;
     -ms-flex-order: initial;
 }
 .nav-link.hover{
     color: rgb(129, 95, 23);
+}
+.btn5 {
+    background-color:rgb(68, 47, 1); /* Change to your desired background color */
+    color: #ffffff; /* Change to your desired text color */
+    border-radius: 30px; /* Change to your desired border radius */
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
 }
 .search{
     height: 40px;
@@ -32,7 +42,6 @@ box-sizing: border-box;
     margin-right:-35px;
     border: 2px solid rgb(129, 95, 23);
 }
-
 
 .btn1{
     height: 40px;
@@ -49,7 +58,7 @@ box-sizing: border-box;
     transition: 0.9s;
 }
 .main{
- background :url(./IMAGES/x1.jpg) no-repeat;   
+ background :url(/IMAGES/x1.jpg) no-repeat;   
  background-size: cover;
  height: 100vh;
  background-position: 50% 50%;
@@ -114,15 +123,15 @@ align-items: flex-end;
 }
 
 .bg-img-1{
-    background-image: url(./IMAGES/s2.png);
+    background-image: url(/IMAGES/s2.png);
 }
 
 .bg-img-2{
-    background-image: url(./IMAGES/s1.jpg);
+    background-image: url(/IMAGES/s1.jpg);
 }
 
 .bg-img-3{
-    background-image: url(./IMAGES/s3.jpg);
+    background-image: url(/IMAGES/s3.jpg);
 }
 
 .carousel-image{
@@ -132,15 +141,15 @@ align-items: flex-end;
  background-position: center;
 }
 .bg-img-4{
-    background-image: url(./IMAGES/b2.png);
+    background-image: url(/IMAGES/b2.png);
 }
 
 .bg-img-5{
-    background-image: url(./IMAGES/b3.png);
+    background-image: url(/IMAGES/b3.png);
 }
 
 .bg-img-6{
-    background-image: url(./IMAGES/koooo.jpeg);
+    background-image: url(/IMAGES/koooo.jpeg);
 }
 .carousel-image{
  height:100vh;   
@@ -157,14 +166,14 @@ align-items: flex-end;
 
 }
 .bg-img-7{
-    background-image: url(./IMAGES/x1.jpg);
+    background-image: url(/IMAGES/x1.jpg);
 }
 .bg-img-8{
-    background-image: url(./IMAGES/x.webp);
+    background-image: url(/IMAGES/x.webp);
 }
 
 .bg-img-9{
-    background-image: url(./IMAGES/x2.jpg);
+    background-image: url(/IMAGES/x2.jpg);
 }
 .carousel-image{
  height:100vh;   
